@@ -45,7 +45,7 @@
 
 	i. Install the PagerDuty Mobile application on your phone and add that Mobile application as a contact method for your user in the Web UI
 
-	![Pagerduty Installed on Phone](https://i.imgur.com/kjsDrhl.jpg) 
+	![Pagerduty Installed on Phone](https://i.imgur.com/2nzYUbQ.png) 
 
 	![Pagerduty App logged in](https://i.imgur.com/WuDb9cv.png)
 
