@@ -60,17 +60,19 @@
 
 		Script: custom_EventCreate.curl
 
-	![Event Sent via API and Alert triggered](https://i.imgur.com/aTWPsTX.png) ![Alert Received on Phone](https://i.imgur.com/PG8rpvZ.png)
+	![Event Sent via API and Alert triggered](https://i.imgur.com/aTWPsTX.png) 
 
-	b. Trigger an incident using the API
+Call received on phone as soon as POST API Call was made.
+
+![Alert Received on Phone](https://i.imgur.com/PG8rpvZ.png)
+
+b. Trigger an incident using the API
 
 		Script: custom_EventCreate.curl
 
-	![Event Sent via API and Alert triggered](https://i.imgur.com/aTWPsTX.png)
+![Event Sent via API and Alert triggered](https://i.imgur.com/aTWPsTX.png)
 
-	c. Acknowledge the incident via the Mobile Application
-
-Phone Call Received as soon as API POST was Sent
+c. Acknowledge the incident via the Mobile Application
 
 ![Ack event via mobile App](https://i.imgur.com/84vrt4n.png)
 
