@@ -98,4 +98,7 @@ No more Incidents as resolved using Mobile App
 
 h. Using the API, return a list of the log entries for the incident created in the steps above
 
+	Script: custom_GetLogs.curl
+	Response: custom_LogReponse.json
+
 
