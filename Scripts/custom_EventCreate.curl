@@ -1,4 +1,4 @@
-curl -X POST --header 'Content-Type: application/json' --header 'Accept: application/vnd.pagerduty+json;version=2' --header 'From: miles.toolin@gmail.com' --header 'Authorization: Token token=yeKbb6975_WZmXxxA5se' -d '{
+curl -X POST --header 'Content-Type: application/json' --header 'Accept: application/vnd.pagerduty+json;version=2' --header 'From: miles.toolin@gmail.com' --header 'Authorization: Token token=>>API KEY HERE<<' -d '{
   "incident": {
     "type": "incident",
     "title": "Testing Incident",
