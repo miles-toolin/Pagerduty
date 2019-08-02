@@ -25,13 +25,13 @@
 
 	e. Create an Escalation Policy including at least one Schedule via the API
 
-	Script: custom_PolicyCreate.curl
+		Script: custom_PolicyCreate.curl
 
 	![Policy Created](https://i.imgur.com/AMcpmJF.png)
 
 	f. Create at least one new Service utilizing the above Escalation Policy via the API
 
-	Script: custom_ServiceCreate.curl
+		Script: custom_ServiceCreate.curl
 
 	![Service Create](https://i.imgur.com/LF9348J.png)
 
@@ -45,10 +45,11 @@
 
 	i. Install the PagerDuty Mobile application on your phone and add that Mobile application as a contact method for your user in the Web UI
 
-	![Pagerduty Installed on Phone](https://i.imgur.com/FxdBERg.png)
-	![Pagerduty App logged in](https://i.imgur.com/WuDb9cv.png)
+	![Pagerduty Installed on Phone](https://i.imgur.com/FxdBERg.png) ![Pagerduty App logged in](https://i.imgur.com/WuDb9cv.png)
 
 	j. Add multiple High and Low Urgency Notification Rules to your user profile via the Web UI
+
+
 
 # Incident Response Workflow
 
