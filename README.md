@@ -7,3 +7,7 @@ Thank you for the opportunity to complete this exercise utilizing Pagerduty. I e
 All answers and references for the exam are located under answers.md. I under screen shots were not required for the UI based steps but for the continuity of the documentation I believe it flows much nicer using the GitHub repository.
 
 All Scripts located in Scripts folder and cURL commands were all executed utilizing Postman and the Pagerduty API.
+
+Platform Details:
+
+milestoolin.pagerduty.com
