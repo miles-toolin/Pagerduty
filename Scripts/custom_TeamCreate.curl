@@ -1,0 +1,9 @@
+### Command and paramaters used to create a team
+
+curl -X POST --header 'Content-Type: application/json' --header 'Accept: application/vnd.pagerduty+json;version=2' --header 'Authorization: Token token=yeKbb6975_WZmXxxA5se' -d '{
+  "team": {
+    "type": "team",
+    "name": "Technical Team",
+    "description": "Testing Team"
+  }
+}' 'https://api.pagerduty.com/teams'
