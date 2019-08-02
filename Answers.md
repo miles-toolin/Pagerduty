@@ -70,24 +70,30 @@
 
 	c. Acknowledge the incident via the Mobile Application
 
-	![Ack event via mobile App](https://i.imgur.com/84vrt4n.png)
+Phone Call Received as soon as API POST was Sent
 
-	d. Using the Response Mobilizer in either the Web UI or Mobile App, add multiple users to the incident
+![Ack event via mobile App](https://i.imgur.com/84vrt4n.png)
 
-	![Added multiple users](https://i.imgur.com/y6pvZTY.png)
+d. Using the Response Mobilizer in either the Web UI or Mobile App, add multiple users to the incident
 
-	e. Using the Subscriber Notification capability, add multiple stakeholder users to the incident via the Web UI
+![Added multiple users](https://i.imgur.com/y6pvZTY.png)
 
-	![Added multiple users](https://i.imgur.com/y6pvZTY.png)
+e. Using the Subscriber Notification capability, add multiple stakeholder users to the incident via the Web UI
 
-	f. Add some Notes to the incident through the Web UI or Mobile App
+![Added multiple users](https://i.imgur.com/y6pvZTY.png)
 
-	![Adding Test notes](https://i.imgur.com/FxphIiD.png)
+f. Add some Notes to the incident through the Web UI or Mobile App
 
-	g. Resolve the incident via the Mobile App
+Added Notes via the Web UI
 
-	![No more Events as all are resolved](https://i.imgur.com/LKkKJcA.png)
+![Adding Test notes](https://i.imgur.com/FxphIiD.png)
 
-	h. Using the API, return a list of the log entries for the incident created in the steps above
+g. Resolve the incident via the Mobile App
 
-	
+No more Incidents as resolved using Mobile App
+
+![No more Events as all are resolved](https://i.imgur.com/LKkKJcA.png)
+
+h. Using the API, return a list of the log entries for the incident created in the steps above
+
+
