@@ -58,16 +58,36 @@
 
 	a. Send an Event to PagerDuty using the API
 
+		Script: custom_EventCreate.curl
+
+	![Event Sent via API and Alert triggered](https://i.imgur.com/aTWPsTX.png) ![Alert Received on Phone](https://i.imgur.com/PG8rpvZ.png)
+
 	b. Trigger an incident using the API
+
+		Script: custom_EventCreate.curl
+
+	![Event Sent via API and Alert triggered](https://i.imgur.com/aTWPsTX.png)
 
 	c. Acknowledge the incident via the Mobile Application
 
+	![Ack event via mobile App](https://i.imgur.com/84vrt4n.png)
+
 	d. Using the Response Mobilizer in either the Web UI or Mobile App, add multiple users to the incident
+
+	![Added multiple users](https://i.imgur.com/y6pvZTY.png)
 
 	e. Using the Subscriber Notification capability, add multiple stakeholder users to the incident via the Web UI
 
+	![Added multiple users](https://i.imgur.com/y6pvZTY.png)
+
 	f. Add some Notes to the incident through the Web UI or Mobile App
+
+	![Adding Test notes](https://i.imgur.com/FxphIiD.png)
 
 	g. Resolve the incident via the Mobile App
 
+	![No more Events as all are resolved](https://i.imgur.com/LKkKJcA.png)
+
 	h. Using the API, return a list of the log entries for the incident created in the steps above
+
+	

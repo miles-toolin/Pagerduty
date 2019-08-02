@@ -1,0 +1,20 @@
+curl -X POST --header 'Content-Type: application/json' --header 'Accept: application/vnd.pagerduty+json;version=2' --header 'From: miles.toolin@gmail.com' --header 'Authorization: Token token=yeKbb6975_WZmXxxA5se' -d '{
+  "incident": {
+    "type": "incident",
+    "title": "Testing Incident",
+    "service": {
+      "id": "PIY7WNC",
+      "type": "service_reference"
+    },
+    "urgency": "high",
+    "incident_key": "baf7cf21b1da41b4b0221008339ff357",
+    "body": {
+      "type": "incident_body",
+      "details": "Testing Details for my technical exam"
+    },
+    "escalation_policy": {
+      "id": "PWAN0X1",
+      "type": "escalation_policy_reference"
+    }
+  }
+}' 'https://api.pagerduty.com/incidents'

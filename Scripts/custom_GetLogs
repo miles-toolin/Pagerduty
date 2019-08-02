@@ -1,0 +1,1 @@
+curl -X GET --header 'Accept: application/vnd.pagerduty+json;version=2' --header 'Authorization: Token token=yeKbb6975_WZmXxxA5se' 'https://api.pagerduty.com/log_entries/RN394A3VVUOSEJAPPTVLH7SYNF?time_zone=UTC&include%5B%5D=incidents'

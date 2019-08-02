@@ -1,0 +1,119 @@
+{
+  "log_entry": {
+    "id": "RN394A3VVUOSEJAPPTVLH7SYNF",
+    "type": "notify_log_entry",
+    "summary": "Notified Test User1 by email",
+    "self": "https://api.pagerduty.com/log_entries/RN394A3VVUOSEJAPPTVLH7SYNF",
+    "html_url": null,
+    "created_at": "2019-08-02T07:07:22Z",
+    "channel": {
+      "type": "auto",
+      "notification": {
+        "type": "email",
+        "address": "test.user1@milestoolin.com",
+        "conferenceAddress": null,
+        "status": "in_progress"
+      }
+    },
+    "service": {
+      "id": "PIY7WNC",
+      "type": "service_reference",
+      "summary": "My Test Service",
+      "self": "https://api.pagerduty.com/services/PIY7WNC",
+      "html_url": "https://milestoolin.pagerduty.com/services/PIY7WNC"
+    },
+    "incident": {
+      "incident_number": 3,
+      "title": "Testing Incident",
+      "description": "Testing Incident",
+      "created_at": "2019-08-02T07:05:47Z",
+      "status": "resolved",
+      "incident_key": "baf7cf21b1da41b4b0221008339ff357",
+      "service": {
+        "id": "PIY7WNC",
+        "type": "service_reference",
+        "summary": "My Test Service",
+        "self": "https://api.pagerduty.com/services/PIY7WNC",
+        "html_url": "https://milestoolin.pagerduty.com/services/PIY7WNC"
+      },
+      "assignments": [],
+      "last_status_change_at": "2019-08-02T07:07:14Z",
+      "first_trigger_log_entry": {
+        "id": "R2FX0GVGYJMSRTW2E65YIJ1P1X",
+        "type": "trigger_log_entry_reference",
+        "summary": "Triggered through the website",
+        "self": "https://api.pagerduty.com/log_entries/R2FX0GVGYJMSRTW2E65YIJ1P1X",
+        "html_url": "https://milestoolin.pagerduty.com/incidents/PCZTVSL/log_entries/R2FX0GVGYJMSRTW2E65YIJ1P1X"
+      },
+      "alert_counts": {
+        "all": 0,
+        "triggered": 0,
+        "resolved": 0
+      },
+      "is_mergeable": true,
+      "escalation_policy": {
+        "id": "PWAN0X1",
+        "type": "escalation_policy_reference",
+        "summary": "Out of Hours Policy",
+        "self": "https://api.pagerduty.com/escalation_policies/PWAN0X1",
+        "html_url": "https://milestoolin.pagerduty.com/escalation_policies/PWAN0X1"
+      },
+      "teams": [
+        {
+          "id": "P7BX7TI",
+          "type": "team_reference",
+          "summary": "Technical Team",
+          "self": "https://api.pagerduty.com/teams/P7BX7TI",
+          "html_url": "https://milestoolin.pagerduty.com/teams/P7BX7TI"
+        }
+      ],
+      "impacted_services": [
+        {
+          "id": "PIY7WNC",
+          "type": "service_reference",
+          "summary": "My Test Service",
+          "self": "https://api.pagerduty.com/services/PIY7WNC",
+          "html_url": "https://milestoolin.pagerduty.com/services/PIY7WNC"
+        }
+      ],
+      "pending_actions": [],
+      "acknowledgements": [],
+      "basic_alert_grouping": null,
+      "alert_grouping": null,
+      "last_status_change_by": {
+        "id": "PH9PO6T",
+        "type": "user_reference",
+        "summary": "Miles Toolin",
+        "self": "https://api.pagerduty.com/users/PH9PO6T",
+        "html_url": "https://milestoolin.pagerduty.com/users/PH9PO6T"
+      },
+      "resolve_reason": null,
+      "incidents_responders": [],
+      "responder_requests": [],
+      "subscriber_requests": [],
+      "urgency": "high",
+      "id": "PCZTVSL",
+      "type": "incident",
+      "summary": "[#3] Testing Incident",
+      "self": "https://api.pagerduty.com/incidents/PCZTVSL",
+      "html_url": "https://milestoolin.pagerduty.com/incidents/PCZTVSL"
+    },
+    "teams": [
+      {
+        "id": "P7BX7TI",
+        "type": "team_reference",
+        "summary": "Technical Team",
+        "self": "https://api.pagerduty.com/teams/P7BX7TI",
+        "html_url": "https://milestoolin.pagerduty.com/teams/P7BX7TI"
+      }
+    ],
+    "contexts": [],
+    "user": {
+      "id": "PCS6YMJ",
+      "type": "user_reference",
+      "summary": "Test User1",
+      "self": "https://api.pagerduty.com/users/PCS6YMJ",
+      "html_url": "https://milestoolin.pagerduty.com/users/PCS6YMJ"
+    }
+  }
+}
