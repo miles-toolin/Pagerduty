@@ -45,7 +45,7 @@
 
 	i. Install the PagerDuty Mobile application on your phone and add that Mobile application as a contact method for your user in the Web UI
 
-	![Pagerduty Installed on Phone](https://i.imgur.com/2nzYUbQ.png) ![Pagerduty App logged in](https://i.imgur.com/Xo2peVM.png)
+	![Pagerduty Installed on Phone](https://i.imgur.com/2nzYUbQ.png) ![Pagerduty App logged in](https://i.imgur.com/Xo2peVM.png) ![Added AS contact Method](https://i.imgur.com/1kRpEio.png)
 
 	j. Add multiple High and Low Urgency Notification Rules to your user profile via the Web UI
 
